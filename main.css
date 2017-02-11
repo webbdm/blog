@@ -1,0 +1,66 @@
+body {
+	background-color: orange;  
+
+}
+
+img {
+	height: 100px;
+	width: 200px;
+
+}
+
+#artone {
+	background-color: red;
+	border-radius: 2px;
+	line-height: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 5px;
+	font-color: blue;
+	padding: 5px;
+
+
+
+}
+
+#arttwo {
+	background-color: yellow;
+	border-radius: 5px;
+	line-height: 10px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 10px;
+	font-color: purple;
+	padding: 4px;
+
+}
+
+#artthree {
+	background-color: blue;
+	border-radius: 8px;
+	line-height: 30px;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 7px;
+	font-color: green;
+	padding: 3px;
+
+}
+
+#artfour {
+	background: tomato;
+	border-radius: 3px;
+	line-height: 20px;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 6px;
+	font-color: white;
+	padding: 2px;
+
+}
+
+#artfive{
+	background: pink;
+	border-radius: 6px;
+	line-height: 15px;
+	font-family: Impact, Charcoal, sans-serif;
+	font-size: 5px;
+	font-color: gray;
+	padding: 1px;
+}
